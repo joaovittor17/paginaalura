@@ -3,7 +3,7 @@ p{
 text-align: center}
 
 
-body {background:#c4c1c1}
+body 
  h1{text-align: center;}
 em strong {color: deeppink;}
 
@@ -36,7 +36,7 @@ background: #ffffff;
 
 .principal{
 
-background: #ffffcc;
+    {background:#c4c1c1}
 
 
 }
