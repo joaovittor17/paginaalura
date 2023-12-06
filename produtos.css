@@ -5,3 +5,11 @@ background: #bbbbbb;
 
 
 }
+
+
+nav li{
+
+
+
+    display: inline;
+}
